@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  min-height: 100vh;
+  background: #e0d6d6;
+}
+
+.card {
+  text-align: center;
+  border-radius: 20px;
+  padding: 1.5rem;
+  width: 400px;
+  height: 300px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  transition: background 0.3s ease;
+  color: #000;
+}
+
+.pic {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  object-fit: cover;
+  object-position: center;
+  display: block;
+  margin: 0 auto 1rem;
+}
