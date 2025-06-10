@@ -81,3 +81,15 @@ For each lab, navigate into the specific folder and start the development server
 cd LAB1
 npm run dev
 
+## 🪪 License
+
+This repository is part of the Semester 6 Practical Curriculum for the subject **BCSL657B – ReactJS Lab**.
+
+It is intended strictly for **educational use only**.  
+You are free to clone and refer for academic purposes.
+
+❌ Commercial usage, redistribution, or misrepresentation is **not permitted**.
+✅ You may modify and use it for learning, submissions, and internal college evaluation.
+
+© 2025 Sana Syed 
+
