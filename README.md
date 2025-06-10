@@ -80,6 +80,7 @@ For each lab, navigate into the specific folder and start the development server
 ```bash
 cd LAB1
 npm run dev
+```
 
 ## 🪪 License
 
